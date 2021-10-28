@@ -2,8 +2,6 @@
 
 ## predicting potential clients for health insurance services
 
-#### This project was made by Lucas Ezequiel.
-
 # 1. Business Problem.
 
 # 2. Business Assumptions.
